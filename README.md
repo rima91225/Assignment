@@ -1,2 +1,2 @@
-# Assignment-02
+# Assignment
 Add any C or txt file
